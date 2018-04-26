@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### About
-
 Hiya friends!  My name is Travis Pomeroy and I remember our first family computer was an IBM 5160 with an Intel 8088 processor.  
 My Pops would load the word processor and I would practice typing my books out!  I wrote my first webpage at 14, static HTML on 
 GeoCities *super fancy I know*, graduated with a Computer Science degree from NCSU, and now work in the FinTech industry 
