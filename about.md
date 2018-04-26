@@ -60,5 +60,3 @@ every presentation, every published word, or every twitter post, I am compelled 
 ### Contact me
 
 [pomeroysoftware@gmail.com](mailto:pomeroysoftware@gmail.com)
-  
-[Hypothesis of the Cosmic Egg](https://en.wikipedia.org/wiki/Georges_Lemaître)
