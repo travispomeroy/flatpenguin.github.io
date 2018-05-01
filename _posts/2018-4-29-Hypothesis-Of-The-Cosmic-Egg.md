@@ -3,7 +3,8 @@ layout: post
 title: Hypothesis of the Cosmic Egg
 ---
 
-Welcome to my blog!  I hope you enjoy yourself reading and watching all they things I find interesting!  
+Welcome to my blog!  I hope you enjoy yourself while reading and watching about all the 
+things I find interesting!  
 
 This blog is mainly geared towards software development (testing, deploying, writing), book 
 reviews (tech, sci-fi, soft skills), and the exploration of different software tools and 
